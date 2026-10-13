@@ -1,17 +1,17 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Nadeem&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Full-Stack%20AI%20Developer&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Nadeem&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Builder%20of%20Agentic%20Systems" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D1FF&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+actually+do+things;LangGraph+%E2%80%A2+LangChain+%E2%80%A2+MCP+%E2%80%A2+FastAPI+%E2%80%A2+Next.js;Connecting+LLMs+to+real-world+tools+and+APIs;CS+Student+%40+NUST+SEECS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D1FF&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+actually+do+things;LangGraph+and+MCP+for+real+workflows;Full-stack+AI+apps+with+backend+and+UX" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&logo=github&color=2c5364)
-![Stars](https://img.shields.io/github/stars/your-username?label=Stars&style=for-the-badge&logo=github&color=2c5364)
+![Profile Views](https://komarev.com/ghpvc/?username=NADEEM604539&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/NADEEM604539?label=Followers&style=for-the-badge&logo=github&color=2c5364)
+![Stars](https://img.shields.io/github/stars/NADEEM604539?label=Stars&style=for-the-badge&logo=github&color=2c5364)
 
 </div>
 
@@ -176,12 +176,12 @@ Python, LLMs, **LangGraph**, **LangChain**, tool calling, stateful agent workflo
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NADEEM604539&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADEEM604539&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=NADEEM604539&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=NADEEM604539&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -189,20 +189,20 @@ Python, LLMs, **LangGraph**, **LangChain**, tool calling, stateful agent workflo
 
 ## 🏗️ Featured Projects
 
-> Pin your best repositories on your profile. Replace the placeholders below with your own.
+> Replace the placeholders below with your live repositories when ready.
 
 <table>
 <tr>
 <td width="50%">
 
-**[🔹 Project Name](https://github.com/your-username/project-one)**
+**[🔹 Project Name](https://github.com/NADEEM604539/project-one)**
 One-line description of what it does and why it matters.
 `LangGraph` `FastAPI` `Next.js`
 
 </td>
 <td width="50%">
 
-**[🔹 Project Name](https://github.com/your-username/project-two)**
+**[🔹 Project Name](https://github.com/NADEEM604539/project-two)**
 One-line description of what it does and why it matters.
 `FastMCP` `Python` `OAuth 2.0`
 
@@ -216,10 +216,10 @@ One-line description of what it does and why it matters.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NADEEM604539)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:NADEEM604539@users.noreply.github.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/NADEEM604539)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/NADEEM604539)
 
 <br/>
 
