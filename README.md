@@ -9,7 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NADEEM604539&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/NADEEM604539?label=Followers&style=for-the-badge&logo=github&color=2c5364)
 ![Stars](https://img.shields.io/github/stars/NADEEM604539?label=Stars&style=for-the-badge&logo=github&color=2c5364)
 
@@ -30,7 +29,7 @@ class Nadeem:
     focus     = ["AI Agents", "MCP Servers", "Workflow Automation", "AI-Powered Web Apps"]
     stack     = ["Python", "FastAPI", "LangGraph", "LangChain", "Next.js", "MySQL"]
     learning  = ["Agent Evaluation", "Tracing & Observability", "Production Reliability"]
-    open_to   = ["Internships", "Junior AI Roles", "Freelance Automation Projects"]
+    open_to   = ["Internships", "AI Roles", "Freelance Automation Projects"]
 ```
 
 ---
@@ -142,7 +141,7 @@ Python, LLMs, **LangGraph**, **LangChain**, tool calling, stateful agent workflo
 | **Auth & Security Basics** | OAuth 2.0, Google OAuth, JWT, Clerk, bearer tokens, credential handling | ⭐⭐⭐ |
 | **RAG & Embeddings** | Semantic retrieval, vector stores, grounding LLM responses | ⭐⭐⭐ |
 | **Deployment & Ops** | Docker fundamentals, environment config, hosted deployments | ⭐⭐ |
-| **Agent Evaluation & Observability** | LangSmith tracing, trajectory & tool evaluation *(actively building)* | ⭐⭐ |
+| **Agent Evaluation & Observability** | LangSmith tracing, trajectory & tool evaluation *(actively building)* | ⭐⭐⭐ |
 
 <sub>⭐⭐ Foundational · ⭐⭐⭐ Working knowledge · ⭐⭐⭐⭐ Strong practical knowledge. A self-assessment, not a formal exam.</sub>
 
@@ -216,14 +215,13 @@ One-line description of what it does and why it matters.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NADEEM604539)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:NADEEM604539@users.noreply.github.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/NADEEM604539)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/NADEEM604539)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/NADEEM604539](https://www.linkedin.com/in/nadeem-mushtaq-870211345/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndm604539@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nadeem.nustian.me)
 
 <br/>
 
-*Open to internships, junior AI engineering roles, and freelance automation projects.*
+*Open to internships, AI engineering roles, and freelance automation projects.*
 
 </div>
 
