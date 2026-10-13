@@ -138,8 +138,8 @@ Python, LLMs, **LangGraph**, **LangChain**, tool calling, stateful agent workflo
 | **Python Backend** | FastAPI, REST APIs, SQLAlchemy, async/await, background & scheduled jobs | ⭐⭐⭐ |
 | **Full-Stack Development** | Next.js (App Router), React, Node.js, Tailwind CSS, route handlers | ⭐⭐⭐ |
 | **Databases** | MySQL, SQL, SQLAlchemy, Pinecone, Chroma, vector search | ⭐⭐⭐ |
-| **Auth & Security Basics** | OAuth 2.0, Google OAuth, JWT, Clerk, bearer tokens, credential handling | ⭐⭐⭐ |
-| **RAG & Embeddings** | Semantic retrieval, vector stores, grounding LLM responses | ⭐⭐⭐ |
+| **Auth & Security Basics** | OAuth 2.0, Google OAuth, JWT, Clerk, bearer tokens, credential handling | ⭐⭐⭐⭐ |
+| **RAG & Embeddings** | Semantic retrieval, vector stores, grounding LLM responses | ⭐⭐⭐⭐ |
 | **Deployment & Ops** | Docker fundamentals, environment config, hosted deployments | ⭐⭐ |
 | **Agent Evaluation & Observability** | LangSmith tracing, trajectory & tool evaluation *(actively building)* | ⭐⭐⭐ |
 
