@@ -184,32 +184,6 @@ Python, LLMs, **LangGraph**, **LangChain**, tool calling, stateful agent workflo
 
 </div>
 
----
-
-## 🏗️ Featured Projects
-
-> Replace the placeholders below with your live repositories when ready.
-
-<table>
-<tr>
-<td width="50%">
-
-**[🔹 Project Name](https://github.com/NADEEM604539/project-one)**
-One-line description of what it does and why it matters.
-`LangGraph` `FastAPI` `Next.js`
-
-</td>
-<td width="50%">
-
-**[🔹 Project Name](https://github.com/NADEEM604539/project-two)**
-One-line description of what it does and why it matters.
-`FastMCP` `Python` `OAuth 2.0`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🤝 Let's Connect
 
